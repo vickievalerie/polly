@@ -592,6 +592,12 @@ body {
 }
 
 @media (max-width: 1000px) {
+	.container1 {
+		font-size: 50px;
+		padding-bottom: 50px;
+
+	}
+
 	.nav__list--header {
 		display: none;
 	}
@@ -863,7 +869,7 @@ body {
 	}
 
 	.container1 {
-		font-size: 0px;
+		font-size: 30px;
 		padding-bottom: 10px;
 
 	}
